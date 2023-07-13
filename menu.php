@@ -1,0 +1,5 @@
+<?php echo "M" ?>
+<?php echo "I" ?>
+<?php echo "N" ?>
+<?php echo "E" ?>
+<?php echo "E" ?>
